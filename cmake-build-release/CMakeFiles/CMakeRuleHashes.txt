@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+55c4f6e47177a67c145fa6d8cf27c6d3 CMakeFiles/banyuneto.data
+e473a8bf73de60750e6fb2a6a9a2f6ef CMakeFiles/banyuneto.nro
+4d000b9b7dfe5abad6fe645edc8fdc1e CMakeFiles/banyuneto_switch_release
+7d1007ec2040fdac725c41cc88819dcd libcross2d/source/platforms/glad/CMakeFiles/glad-generate-files
+c4b3fdf40805d9ad4e52310048a2b016 libcross2d/source/platforms/glad/src/glad.c

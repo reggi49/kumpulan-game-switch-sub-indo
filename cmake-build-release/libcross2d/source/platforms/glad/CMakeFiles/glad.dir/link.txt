@@ -1,0 +1,2 @@
+/opt/devkitpro/devkitA64/bin/aarch64-none-elf-gcc-ar qc libglad.a CMakeFiles/glad.dir/src/glad.o
+/opt/devkitpro/devkitA64/bin/aarch64-none-elf-gcc-ranlib libglad.a

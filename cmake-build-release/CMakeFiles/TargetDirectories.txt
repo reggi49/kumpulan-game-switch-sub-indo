@@ -1,0 +1,13 @@
+/Users/regi/Documents/banyuneto/cmake-build-release/CMakeFiles/banyuneto.dir
+/Users/regi/Documents/banyuneto/cmake-build-release/CMakeFiles/banyuneto.data.dir
+/Users/regi/Documents/banyuneto/cmake-build-release/CMakeFiles/banyuneto.nro.dir
+/Users/regi/Documents/banyuneto/cmake-build-release/CMakeFiles/banyuneto_switch_release.dir
+/Users/regi/Documents/banyuneto/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/regi/Documents/banyuneto/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/Users/regi/Documents/banyuneto/cmake-build-release/libcross2d/CMakeFiles/cross2d.dir
+/Users/regi/Documents/banyuneto/cmake-build-release/libcross2d/CMakeFiles/edit_cache.dir
+/Users/regi/Documents/banyuneto/cmake-build-release/libcross2d/CMakeFiles/rebuild_cache.dir
+/Users/regi/Documents/banyuneto/cmake-build-release/libcross2d/source/platforms/glad/CMakeFiles/glad-generate-files.dir
+/Users/regi/Documents/banyuneto/cmake-build-release/libcross2d/source/platforms/glad/CMakeFiles/glad.dir
+/Users/regi/Documents/banyuneto/cmake-build-release/libcross2d/source/platforms/glad/CMakeFiles/edit_cache.dir
+/Users/regi/Documents/banyuneto/cmake-build-release/libcross2d/source/platforms/glad/CMakeFiles/rebuild_cache.dir
